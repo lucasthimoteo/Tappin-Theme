@@ -1,0 +1,100 @@
+fileFormatVersion: 2
+guid: d01b9cebdbd5401449760e7a1bd3892c
+timeCreated: 1466529414
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PLAY LOW_0
+    21300002: PLAY LOW_1
+    21300004: LOW PLAY BTN_0
+    21300006: LOW PLAY BTN_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: LOW PLAY BTN_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 58, y: 17}
+        - {x: -12, y: 58}
+        - {x: -62, y: 58}
+        - {x: -64, y: 57}
+        - {x: -64, y: -58}
+        - {x: -58, y: -64}
+        - {x: -28, y: -64}
+        - {x: -15, y: -59}
+        - {x: 55, y: -35}
+        - {x: 58, y: -21}
+    - name: LOW PLAY BTN_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -59, y: 64}
+        - {x: -64, y: 62}
+        - {x: -64, y: -64}
+        - {x: 4, y: -64}
+        - {x: 58, y: -23}
+        - {x: 58, y: 26}
+        - {x: -7, y: 64}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
